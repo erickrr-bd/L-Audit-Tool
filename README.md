@@ -1,4 +1,4 @@
-# L-Audit-Toolv1.0
+# L-Audit-Tool v1.0
 LDAP audit tool.
 
 ## Characteristics
