@@ -17,7 +17,7 @@ LDAP audit tool.
 
 # Running
 
-#Disclaimer
+# Disclaimer
 It's important to be careful when using this tool. It has been developed for Ethical Hacking purposes, for which the author disclaims any improper or malicious use that could be exploited by third parties.
 
 # Commercial Support
